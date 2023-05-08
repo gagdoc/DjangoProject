@@ -13,3 +13,4 @@ class Post(models.Model):
         return f'[{self.pk}] {self.title}'
 
 
+# 장고 shell 사용하기
